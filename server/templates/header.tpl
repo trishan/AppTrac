@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>Literacy lab reporting - {$title}</title>
+		<link rel="stylesheet" href="{$base}/res/basic.css"/>
+		{$extra_head}
+	</head>
+	<body>
+		<h1 id="header">Literacy lab reporting</h1>
+		{if $signed_in}
+		<ul id="nav">
+			<li><a href="activity">Recent activity</a></li>
+			<li><a href="lab-reports">Lab reports</a></li>
+			<li><a href="intake">Intake form</a></li>
+		</ul>
+		<p id="session-info">
+			Signed in as {$session.user.username}
+			{* [<a href="account">Account settings</a>] *}
+			[<a href="signout">Sign out</a>]
+		</p>
+		{/if}

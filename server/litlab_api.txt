@@ -1,0 +1,46 @@
+The API interface will have a base URL, for example:
+https://litlab.lib.hartford.ct.us/api
+
+Arguments are passed via the HTTP query string mechanism as key-value pairs. There will always be a [arameter named "action", whose value is one of a set of defined actions. The other parameters are specific to the action being called. This results in a request of the form:
+
+For example, if we define an action called "check_authentication" with the parameter "username" and "password", a request might look like:
+
+https://litlab.lib.hartford.ct.us/api?action=check_authentication&username=jjones&password=abc123
+
+This is a simple HTTP request. Not yet sure if we'll use SSL (HTTPS), but it would be a good idea. This is supported by most client libraries, so it shouldn't be hard to do on the client side.
+
+The API server responds to each request with a JSON string. This string can be parsed by any JSON library. An example response to the above request might be:
+
+{"action":"check_authentication","time":"Thu, 08 Jul 2010 13:59:02 -0400","authenticated":true}
+
+When parsed by a JSON parser, this gives a set of key-value pairs, similar to a hash map or a string-indexed array:
+
+Response object
+	action: "check_authentication"
+	time: " Thu, 08 Jul 2010 13:59:02 -0400"
+	authenticated: true
+	assigned_apps: "lexia,preged"
+
+The kiosk app should then take action based on the response.
+
+List of actions:
+
+check_authentication
+	parameters:
+		action: "check_authentication"
+		username: [username to check]
+		password: [corresponding password to check]
+
+	response keys:
+		action: "check_authentication" (you just get the same action back)
+		time: [the current time, as a string]
+		authenticated: [boolean indicating whether the username/password matched]
+		assigned_apps: [a comma-delimited string representing a list of assigned learning apps] (only present if authenticated is true)
+
+Valid learning app strings:
+lexia
+ged
+preged
+alphabet
+newreaders
+mavisbeacon

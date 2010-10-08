@@ -1,0 +1,1653 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 1060
+                    [Session_Begin_Date] => 08/01/2007
+                    [Session_Begin_Time] => 13:40:10
+                    [Session_End_Date] => 08/01/2007
+                    [Session_End_Time] => 13:40:59
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 1
+                    [Task_Session_ID_Begin_Date] => L1A3
+                    [Begin_Time] => 9240
+                    [End_Date] => 08/01/2007
+                    [End_Time] => 13:40:32
+                    [Task_ID_Task_Name] => 08/01/2007
+                    [Total_Time] => 13:40:53
+                    [Complete] => 20
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 2054
+                    [Session_Begin_Date] => 09/19/2007
+                    [Session_Begin_Time] => 14:28:06
+                    [Session_End_Date] => 09/19/2007
+                    [Session_End_Time] => 14:32:38
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 15902
+                    [End_Date] => 09/19/2007
+                    [End_Time] => 14:31:21
+                    [Task_ID_Task_Name] => 09/19/2007
+                    [Total_Time] => 14:32:23
+                    [Complete] => 78
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [2] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 2055
+                    [Session_Begin_Date] => 09/19/2007
+                    [Session_Begin_Time] => 14:32:45
+                    [Session_End_Date] => 09/19/2007
+                    [Session_End_Time] => 14:35:34
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 15903
+                    [End_Date] => 09/19/2007
+                    [End_Time] => 14:32:46
+                    [Task_ID_Task_Name] => 09/19/2007
+                    [Total_Time] => 14:34:08
+                    [Complete] => 81
+                    [Idle_Time] => 2
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 2055
+                    [Session_Begin_Date] => 09/19/2007
+                    [Session_Begin_Time] => 14:32:45
+                    [Session_End_Date] => 09/19/2007
+                    [Session_End_Time] => 14:35:34
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 15904
+                    [End_Date] => 09/19/2007
+                    [End_Time] => 14:34:23
+                    [Task_ID_Task_Name] => 09/19/2007
+                    [Total_Time] => 14:35:31
+                    [Complete] => 175
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [2] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 2055
+                    [Session_Begin_Date] => 09/19/2007
+                    [Session_Begin_Time] => 14:32:45
+                    [Session_End_Date] => 09/19/2007
+                    [Session_End_Time] => 14:35:34
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 15904
+                    [End_Date] => 09/19/2007
+                    [End_Time] => 14:34:23
+                    [Task_ID_Task_Name] => 09/19/2007
+                    [Total_Time] => 14:35:31
+                    [Complete] => 175
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 2056
+                    [Session_Begin_Date] => 09/19/2007
+                    [Session_Begin_Time] => 14:35:40
+                    [Session_End_Date] => 09/19/2007
+                    [Session_End_Time] => 14:39:34
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A2
+                    [Begin_Time] => 15905
+                    [End_Date] => 09/19/2007
+                    [End_Time] => 14:35:41
+                    [Task_ID_Task_Name] => 09/19/2007
+                    [Total_Time] => 14:39:24
+                    [Complete] => 75
+                    [Idle_Time] => 2
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3169
+                    [Session_Begin_Date] => 10/31/2007
+                    [Session_Begin_Time] => 15:50:17
+                    [Session_End_Date] => 10/31/2007
+                    [Session_End_Time] => 15:54:37
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 1
+                    [Task_Session_ID_Begin_Date] => L1A4
+                    [Begin_Time] => 23123
+                    [End_Date] => 10/31/2007
+                    [End_Time] => 15:50:18
+                    [Task_ID_Task_Name] => 10/31/2007
+                    [Total_Time] => 15:50:51
+                    [Complete] => 24
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [5] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3599
+                    [Session_Begin_Date] => 11/28/2007
+                    [Session_Begin_Time] => 15:20:45
+                    [Session_End_Date] => 11/28/2007
+                    [Session_End_Time] => 15:21:57
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 25763
+                    [End_Date] => 11/28/2007
+                    [End_Time] => 15:20:46
+                    [Task_ID_Task_Name] => 11/28/2007
+                    [Total_Time] => 15:21:52
+                    [Complete] => 176
+                    [Idle_Time] => 4
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3599
+                    [Session_Begin_Date] => 11/28/2007
+                    [Session_Begin_Time] => 15:20:45
+                    [Session_End_Date] => 11/28/2007
+                    [Session_End_Time] => 15:21:57
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 25763
+                    [End_Date] => 11/28/2007
+                    [End_Time] => 15:20:46
+                    [Task_ID_Task_Name] => 11/28/2007
+                    [Total_Time] => 15:21:52
+                    [Complete] => 176
+                    [Idle_Time] => 4
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [6] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3601
+                    [Session_Begin_Date] => 11/28/2007
+                    [Session_Begin_Time] => 15:25:12
+                    [Session_End_Date] => 11/28/2007
+                    [Session_End_Time] => 15:29:31
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 25766
+                    [End_Date] => 11/28/2007
+                    [End_Time] => 15:25:15
+                    [Task_ID_Task_Name] => 11/28/2007
+                    [Total_Time] => 15:29:18
+                    [Complete] => 137
+                    [Idle_Time] => 2
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3601
+                    [Session_Begin_Date] => 11/28/2007
+                    [Session_Begin_Time] => 15:25:12
+                    [Session_End_Date] => 11/28/2007
+                    [Session_End_Time] => 15:29:31
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 25766
+                    [End_Date] => 11/28/2007
+                    [End_Time] => 15:25:15
+                    [Task_ID_Task_Name] => 11/28/2007
+                    [Total_Time] => 15:29:18
+                    [Complete] => 137
+                    [Idle_Time] => 2
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [7] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3602
+                    [Session_Begin_Date] => 11/28/2007
+                    [Session_Begin_Time] => 15:29:39
+                    [Session_End_Date] => 11/28/2007
+                    [Session_End_Time] => 15:33:34
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A2
+                    [Begin_Time] => 25767
+                    [End_Date] => 11/28/2007
+                    [End_Time] => 15:29:40
+                    [Task_ID_Task_Name] => 11/28/2007
+                    [Total_Time] => 15:33:26
+                    [Complete] => 77
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [8] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3605
+                    [Session_Begin_Date] => 11/28/2007
+                    [Session_Begin_Time] => 15:33:39
+                    [Session_End_Date] => 11/28/2007
+                    [Session_End_Time] => 15:52:01
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 25770
+                    [End_Date] => 11/28/2007
+                    [End_Time] => 15:34:01
+                    [Task_ID_Task_Name] => 11/28/2007
+                    [Total_Time] => 15:35:45
+                    [Complete] => 136
+                    [Idle_Time] => 2
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3605
+                    [Session_Begin_Date] => 11/28/2007
+                    [Session_Begin_Time] => 15:33:39
+                    [Session_End_Date] => 11/28/2007
+                    [Session_End_Time] => 15:52:01
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 25770
+                    [End_Date] => 11/28/2007
+                    [End_Time] => 15:34:01
+                    [Task_ID_Task_Name] => 11/28/2007
+                    [Total_Time] => 15:35:45
+                    [Complete] => 136
+                    [Idle_Time] => 2
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [9] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3693
+                    [Session_Begin_Date] => 12/04/2007
+                    [Session_Begin_Time] => 18:45:59
+                    [Session_End_Date] => 12/04/2007
+                    [Session_End_Time] => 18:51:38
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 26179
+                    [End_Date] => 12/04/2007
+                    [End_Time] => 18:45:59
+                    [Task_ID_Task_Name] => 12/04/2007
+                    [Total_Time] => 18:51:27
+                    [Complete] => 138
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 90.9091
+                    [extra4] => 
+                    [Accuracy] => 90.9091
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3693
+                    [Session_Begin_Date] => 12/04/2007
+                    [Session_Begin_Time] => 18:45:59
+                    [Session_End_Date] => 12/04/2007
+                    [Session_End_Time] => 18:51:38
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 26179
+                    [End_Date] => 12/04/2007
+                    [End_Time] => 18:45:59
+                    [Task_ID_Task_Name] => 12/04/2007
+                    [Total_Time] => 18:51:27
+                    [Complete] => 138
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [10] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3694
+                    [Session_Begin_Date] => 12/04/2007
+                    [Session_Begin_Time] => 18:51:43
+                    [Session_End_Date] => 12/04/2007
+                    [Session_End_Time] => 18:54:43
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A2
+                    [Begin_Time] => 26193
+                    [End_Date] => 12/04/2007
+                    [End_Time] => 18:51:43
+                    [Task_ID_Task_Name] => 12/04/2007
+                    [Total_Time] => 18:54:39
+                    [Complete] => 77
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [11] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3754
+                    [Session_Begin_Date] => 12/08/2007
+                    [Session_Begin_Time] => 12:29:34
+                    [Session_End_Date] => 12/08/2007
+                    [Session_End_Time] => 12:33:47
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 26533
+                    [End_Date] => 12/08/2007
+                    [End_Time] => 12:29:38
+                    [Task_ID_Task_Name] => 12/08/2007
+                    [Total_Time] => 12:33:39
+                    [Complete] => 143
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 90.0000
+                    [extra4] => 
+                    [Accuracy] => 90.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3754
+                    [Session_Begin_Date] => 12/08/2007
+                    [Session_Begin_Time] => 12:29:34
+                    [Session_End_Date] => 12/08/2007
+                    [Session_End_Time] => 12:33:47
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 26533
+                    [End_Date] => 12/08/2007
+                    [End_Time] => 12:29:38
+                    [Task_ID_Task_Name] => 12/08/2007
+                    [Total_Time] => 12:33:39
+                    [Complete] => 143
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [12] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3755
+                    [Session_Begin_Date] => 12/08/2007
+                    [Session_Begin_Time] => 12:33:53
+                    [Session_End_Date] => 12/08/2007
+                    [Session_End_Time] => 12:34:58
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 26538
+                    [End_Date] => 12/08/2007
+                    [End_Time] => 12:33:54
+                    [Task_ID_Task_Name] => 12/08/2007
+                    [Total_Time] => 12:34:56
+                    [Complete] => 177
+                    [Idle_Time] => 5
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3755
+                    [Session_Begin_Date] => 12/08/2007
+                    [Session_Begin_Time] => 12:33:53
+                    [Session_End_Date] => 12/08/2007
+                    [Session_End_Time] => 12:34:58
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 26538
+                    [End_Date] => 12/08/2007
+                    [End_Time] => 12:33:54
+                    [Task_ID_Task_Name] => 12/08/2007
+                    [Total_Time] => 12:34:56
+                    [Complete] => 177
+                    [Idle_Time] => 5
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [13] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3756
+                    [Session_Begin_Date] => 12/08/2007
+                    [Session_Begin_Time] => 12:35:03
+                    [Session_End_Date] => 12/08/2007
+                    [Session_End_Time] => 12:39:16
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 26543
+                    [End_Date] => 12/08/2007
+                    [End_Time] => 12:36:45
+                    [Task_ID_Task_Name] => 12/08/2007
+                    [Total_Time] => 12:39:09
+                    [Complete] => 140
+                    [Idle_Time] => 5
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3756
+                    [Session_Begin_Date] => 12/08/2007
+                    [Session_Begin_Time] => 12:35:03
+                    [Session_End_Date] => 12/08/2007
+                    [Session_End_Time] => 12:39:16
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 26543
+                    [End_Date] => 12/08/2007
+                    [End_Time] => 12:36:45
+                    [Task_ID_Task_Name] => 12/08/2007
+                    [Total_Time] => 12:39:09
+                    [Complete] => 140
+                    [Idle_Time] => 5
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [14] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3758
+                    [Session_Begin_Date] => 12/08/2007
+                    [Session_Begin_Time] => 12:39:23
+                    [Session_End_Date] => 12/08/2007
+                    [Session_End_Time] => 12:41:51
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A2
+                    [Begin_Time] => 26548
+                    [End_Date] => 12/08/2007
+                    [End_Time] => 12:39:24
+                    [Task_ID_Task_Name] => 12/08/2007
+                    [Total_Time] => 12:41:46
+                    [Complete] => 77
+                    [Idle_Time] => 3
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [15] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3759
+                    [Session_Begin_Date] => 12/08/2007
+                    [Session_Begin_Time] => 12:42:06
+                    [Session_End_Date] => 12/08/2007
+                    [Session_End_Time] => 12:46:15
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 5
+                    [Task_Session_ID_Begin_Date] => L5A1
+                    [Begin_Time] => 26553
+                    [End_Date] => 12/08/2007
+                    [End_Time] => 12:42:06
+                    [Task_ID_Task_Name] => 12/08/2007
+                    [Total_Time] => 12:46:09
+                    [Complete] => 2
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [16] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3808
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:00:09
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:02:37
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 26829
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:00:10
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:02:32
+                    [Complete] => 178
+                    [Idle_Time] => 6
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3808
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:00:09
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:02:37
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 26829
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:00:10
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:02:32
+                    [Complete] => 178
+                    [Idle_Time] => 6
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [17] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3809
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:02:40
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:06:07
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 26830
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:02:44
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:06:02
+                    [Complete] => 174
+                    [Idle_Time] => 4
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3809
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:02:40
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:06:07
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 26830
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:02:44
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:06:02
+                    [Complete] => 174
+                    [Idle_Time] => 4
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [18] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3810
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:06:11
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:08:52
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A2
+                    [Begin_Time] => 26831
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:06:12
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:08:48
+                    [Complete] => 197
+                    [Idle_Time] => 4
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [19] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3811
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:08:57
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:10:51
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 26832
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:08:58
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:10:47
+                    [Complete] => 141
+                    [Idle_Time] => 6
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3811
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:08:57
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:10:51
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 26832
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:08:58
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:10:47
+                    [Complete] => 141
+                    [Idle_Time] => 6
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [20] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3812
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:11:06
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:14:52
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 5
+                    [Task_Session_ID_Begin_Date] => L5A1
+                    [Begin_Time] => 26833
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:11:06
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:14:42
+                    [Complete] => 201
+                    [Idle_Time] => 2
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [21] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3813
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:14:56
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:28:56
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 5
+                    [Task_Session_ID_Begin_Date] => L5A2
+                    [Begin_Time] => 26834
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:14:56
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:28:40
+                    [Complete] => 26
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [22] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3814
+                    [Session_Begin_Date] => 12/11/2007
+                    [Session_Begin_Time] => 14:29:06
+                    [Session_End_Date] => 12/11/2007
+                    [Session_End_Time] => 14:33:34
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 5
+                    [Task_Session_ID_Begin_Date] => L5A3
+                    [Begin_Time] => 26835
+                    [End_Date] => 12/11/2007
+                    [End_Time] => 14:29:17
+                    [Task_ID_Task_Name] => 12/11/2007
+                    [Total_Time] => 14:33:27
+                    [Complete] => 71
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [23] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3867
+                    [Session_Begin_Date] => 12/17/2007
+                    [Session_Begin_Time] => 13:38:13
+                    [Session_End_Date] => 12/17/2007
+                    [Session_End_Time] => 13:42:12
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A1
+                    [Begin_Time] => 27013
+                    [End_Date] => 12/17/2007
+                    [End_Time] => 13:40:34
+                    [Task_ID_Task_Name] => 12/17/2007
+                    [Total_Time] => 13:41:57
+                    [Complete] => 142
+                    [Idle_Time] => 7
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [24] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3868
+                    [Session_Begin_Date] => 12/17/2007
+                    [Session_Begin_Time] => 13:42:19
+                    [Session_End_Date] => 12/17/2007
+                    [Session_End_Time] => 13:45:46
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A2
+                    [Begin_Time] => 27014
+                    [End_Date] => 12/17/2007
+                    [End_Time] => 13:42:20
+                    [Task_ID_Task_Name] => 12/17/2007
+                    [Total_Time] => 13:45:41
+                    [Complete] => 198
+                    [Idle_Time] => 5
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [25] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3869
+                    [Session_Begin_Date] => 12/17/2007
+                    [Session_Begin_Time] => 13:45:51
+                    [Session_End_Date] => 12/17/2007
+                    [Session_End_Time] => 13:49:42
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 27017
+                    [End_Date] => 12/17/2007
+                    [End_Time] => 13:45:54
+                    [Task_ID_Task_Name] => 12/17/2007
+                    [Total_Time] => 13:49:36
+                    [Complete] => 207
+                    [Idle_Time] => 5
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3869
+                    [Session_Begin_Date] => 12/17/2007
+                    [Session_Begin_Time] => 13:45:51
+                    [Session_End_Date] => 12/17/2007
+                    [Session_End_Time] => 13:49:42
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 27017
+                    [End_Date] => 12/17/2007
+                    [End_Time] => 13:45:54
+                    [Task_ID_Task_Name] => 12/17/2007
+                    [Total_Time] => 13:49:36
+                    [Complete] => 207
+                    [Idle_Time] => 5
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [26] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3870
+                    [Session_Begin_Date] => 12/17/2007
+                    [Session_Begin_Time] => 13:49:45
+                    [Session_End_Date] => 12/17/2007
+                    [Session_End_Time] => 13:51:03
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 27018
+                    [End_Date] => 12/17/2007
+                    [End_Time] => 13:49:46
+                    [Task_ID_Task_Name] => 12/17/2007
+                    [Total_Time] => 13:51:02
+                    [Complete] => 179
+                    [Idle_Time] => 7
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 3870
+                    [Session_Begin_Date] => 12/17/2007
+                    [Session_Begin_Time] => 13:49:45
+                    [Session_End_Date] => 12/17/2007
+                    [Session_End_Time] => 13:51:03
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 27018
+                    [End_Date] => 12/17/2007
+                    [End_Time] => 13:49:46
+                    [Task_ID_Task_Name] => 12/17/2007
+                    [Total_Time] => 13:51:02
+                    [Complete] => 179
+                    [Idle_Time] => 7
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [27] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 493
+                    [Session_Begin_Date] => 06/23/2007
+                    [Session_Begin_Time] => 10:22:26
+                    [Session_End_Date] => 06/23/2007
+                    [Session_End_Time] => 10:27:39
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 1
+                    [Task_Session_ID_Begin_Date] => L1A2
+                    [Begin_Time] => 2485
+                    [End_Date] => 06/23/2007
+                    [End_Time] => 10:24:25
+                    [Task_ID_Task_Name] => 06/23/2007
+                    [Total_Time] => 10:25:34
+                    [Complete] => 23
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [28] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 52
+                    [Session_Begin_Date] => 04/23/2007
+                    [Session_Begin_Time] => 12:15:55
+                    [Session_End_Date] => 04/23/2007
+                    [Session_End_Time] => 12:17:12
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 1
+                    [Task_Session_ID_Begin_Date] => L1A3
+                    [Begin_Time] => 88
+                    [End_Date] => 04/23/2007
+                    [End_Time] => 12:16:46
+                    [Task_ID_Task_Name] => 04/23/2007
+                    [Total_Time] => 12:17:07
+                    [Complete] => 27
+                    [Idle_Time] => 2
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => complete
+                    [extra3] => 0.0000
+                    [extra4] => 
+                    [complete] => 0.0000
+                )
+
+        )
+
+    [29] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 537
+                    [Session_Begin_Date] => 06/26/2007
+                    [Session_Begin_Time] => 17:48:17
+                    [Session_End_Date] => 06/26/2007
+                    [Session_End_Time] => 17:49:32
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 1
+                    [Task_Session_ID_Begin_Date] => L1A2
+                    [Begin_Time] => 3043
+                    [End_Date] => 06/26/2007
+                    [End_Time] => 17:48:18
+                    [Task_ID_Task_Name] => 06/26/2007
+                    [Total_Time] => 17:49:23
+                    [Complete] => 23
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [30] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 952
+                    [Session_Begin_Date] => 07/24/2007
+                    [Session_Begin_Time] => 18:36:46
+                    [Session_End_Date] => 07/24/2007
+                    [Session_End_Time] => 18:41:40
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A2
+                    [Begin_Time] => 7748
+                    [End_Date] => 07/24/2007
+                    [End_Time] => 18:37:27
+                    [Task_ID_Task_Name] => 07/24/2007
+                    [Total_Time] => 18:41:28
+                    [Complete] => 74
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [31] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 953
+                    [Session_Begin_Date] => 07/24/2007
+                    [Session_Begin_Time] => 18:41:47
+                    [Session_End_Date] => 07/24/2007
+                    [Session_End_Time] => 18:48:24
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 7749
+                    [End_Date] => 07/24/2007
+                    [End_Time] => 18:42:20
+                    [Task_ID_Task_Name] => 07/24/2007
+                    [Total_Time] => 18:43:43
+                    [Complete] => 73
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 75.0000
+                    [extra4] => 
+                    [Accuracy] => 75.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 953
+                    [Session_Begin_Date] => 07/24/2007
+                    [Session_Begin_Time] => 18:41:47
+                    [Session_End_Date] => 07/24/2007
+                    [Session_End_Time] => 18:48:24
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 7750
+                    [End_Date] => 07/24/2007
+                    [End_Time] => 18:43:51
+                    [Task_ID_Task_Name] => 07/24/2007
+                    [Total_Time] => 18:48:15
+                    [Complete] => 73
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [2] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 953
+                    [Session_Begin_Date] => 07/24/2007
+                    [Session_Begin_Time] => 18:41:47
+                    [Session_End_Date] => 07/24/2007
+                    [Session_End_Time] => 18:48:24
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A3
+                    [Begin_Time] => 7750
+                    [End_Date] => 07/24/2007
+                    [End_Time] => 18:43:51
+                    [Task_ID_Task_Name] => 07/24/2007
+                    [Total_Time] => 18:48:15
+                    [Complete] => 73
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+    [32] => Array
+        (
+            [0] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 954
+                    [Session_Begin_Date] => 07/24/2007
+                    [Session_Begin_Time] => 18:48:32
+                    [Session_End_Date] => 07/24/2007
+                    [Session_End_Time] => 18:50:28
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 7751
+                    [End_Date] => 07/24/2007
+                    [End_Time] => 18:49:09
+                    [Task_ID_Task_Name] => 07/24/2007
+                    [Total_Time] => 18:50:25
+                    [Complete] => 79
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => Accuracy
+                    [extra3] => 100.0000
+                    [extra4] => 
+                    [Accuracy] => 100.0000
+                )
+
+            [1] => Array
+                (
+                    [Student_ID] => 5
+                    [Username] => bado001
+                    [First_Name] => Barbara
+                    [Last_Name] => Doyle
+                    [Session_ID] => 954
+                    [Session_Begin_Date] => 07/24/2007
+                    [Session_Begin_Time] => 18:48:32
+                    [Session_End_Date] => 07/24/2007
+                    [Session_End_Time] => 18:50:28
+                    [Program_Program_Tag] => Lexia Strategies
+                    [Activity] => SOS
+                    [Activity_Display] => 4
+                    [Task_Session_ID_Begin_Date] => L4A4
+                    [Begin_Time] => 7751
+                    [End_Date] => 07/24/2007
+                    [End_Time] => 18:49:09
+                    [Task_ID_Task_Name] => 07/24/2007
+                    [Total_Time] => 18:50:25
+                    [Complete] => 79
+                    [Idle_Time] => 1
+                    [Performance_Score] => 0.0000
+                    [Score_Value] => 0
+                    [extra1] => 0
+                    [extra2] => 
+                    [extra3] => 
+                    [extra4] => 
+                )
+
+        )
+
+)
