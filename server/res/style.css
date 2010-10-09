@@ -13,7 +13,7 @@ body {padding:50px 100px; margin:0; font-family:Calibri; background-color:white)
 #menu a {text-decoration:underline; float:left; height:20px; padding:10px 30px; color:#FFFFFF; font-size:15px; font-weight:bold; text-decoration:none; font-family:Arial, Helvetica, sans-serif;}
 #menu a:hover {text-decoration:none; color:#000000;font-weight:bold; background:url(images/menu_hover.png);}
 
-#session-signout {position:relative;top:0;left:450; display:block}
+#session-signout {position:absolute;top:201px;right:100px; display:block}
 
 
 #content,td {font-family:Arial, Helvetica, sans-serif;font-size:14px;}
