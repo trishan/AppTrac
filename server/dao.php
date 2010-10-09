@@ -316,7 +316,7 @@ private $conf;
 		return $results;
 	}
 	
-function search_lusers($partial, $limit = 50) {
+function search_lusers($partial, $limit = 20) {
 		$stmt = $this->db->prepare("
 			select User_Name, First_Name, Last_Name, Password
 			from student
