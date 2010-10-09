@@ -48,4 +48,39 @@ function nonempty_alphanumeric($s) {
 	return true;
 }
 
+function error_msg($msg) {
+	global $error_msgs;
+	$error_msgs[] = $msg;
+}
+
+function die_errors() {
+	global $error_msgs;
+	
+	if(count($error_msgs) > 0) {
+		echo "<div>There " .((count($error_msgs)>1)?
+											"were problems":	//plural
+											"was a problem").	//singular
+			" processing your request:<div>";
+		
+		foreach($error_msgs as $msg) {
+			echo <<< END
+<div class="error" style="color: red; font-weight: bold">$msg</div>
+END;
+		}
+		
+		echo <<< END
+<div>Please <a href="#" onclick="history.back(-1)">go back to the previous page</a>, correct these problems, and try again.</div>
+END;
+		die();
+	}
+}
+
+function app_table(&$dao) {
+	$apps = $dao->list_all_apps();
+	$tmp = array();
+	foreach($apps as $app)
+		$tmp[$app["id"]] = $app;
+	return $tmp;
+}
+
 ?>

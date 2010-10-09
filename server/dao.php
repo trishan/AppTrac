@@ -203,7 +203,81 @@ class dao {
 		
 		return $stmt->fetchAll(PDO::FETCH_ASSOC);
 	}
-}	
+	
+	function add_intake_user($user) {
+		list($username, $fname, $lname, $password, $apps) = $user;
+		if(!$stmt = $this->db->prepare("
+			insert into student_user
+			(username, fname, lname, password, assigned_apps)
+			values
+			(:username, :fname, :lname, :password, :apps)
+		")) return false;
+		
+		$apps = join(",", $apps);
+		
+		$stmt->bindValue(":username", $username);
+		$stmt->bindValue(":fname", $fname);
+		$stmt->bindValue(":lname", $lname);
+		$stmt->bindValue(":password", $password);
+		$stmt->bindValue(":apps", $apps);
+		
+		return $stmt->execute();
+	}
+	
+	function update_user($user) {
+		list($username, $fname, $lname, $password, $apps) = $user;
+		if(!$stmt = $this->db->prepare("
+			update student_user
+			set fname = :fname,
+			lname = :lname, 
+			password = :password,
+			assigned_apps = :assigned_apps
+			where username = :username
+		")) return false;
+		
+		$apps = join(",", $apps);
+		
+		$stmt->bindValue(":username", $username);
+		$stmt->bindValue(":fname", $fname);
+		$stmt->bindValue(":lname", $lname);
+		$stmt->bindValue(":password", $password);
+		$stmt->bindValue(":assigned_apps", $apps);
+		
+		return $stmt->execute();
+	}
+	
+	function delete_user($username) {
+		$stmt = $this->db->prepare("
+			delete from student_user
+			where username = :username
+		");
+		$stmt->bindValue(":username", $username);
+		return $stmt->execute();
+	}
+	
+	function get_student_user_by_username($username) {
+		$stmt = $this->db->prepare("
+			select username, fname, lname, password, assigned_apps
+			from student_user
+			where username = :username
+		");
+		$stmt->bindValue(":username", $username);
+		$stmt->execute();
 
+		$user = $stmt->fetch(PDO::FETCH_ASSOC);
+		$user["apps"] = explode(",", $user["assigned_apps"]);
+		
+		return $user;
+	}
+	
+	function list_all_apps() {
+		$stmt = $this->db->prepare("
+			select id, name, intake_checked_default
+			from app
+		");
+		$stmt->execute();
+		return $stmt->fetchAll(PDO::FETCH_ASSOC);
+	}
+}
 
 ?>

@@ -197,16 +197,83 @@ switch($path) {
 	
 	case "intake":
 		require_signin();
+		$dao->connect();
+		$apps = $dao->list_all_apps();
 		
+		$smarty->assign("apps", $apps);
 		$smarty->display("intake.tpl");
 		
 		break;
 	
 	case "intake-process":
 		require_signin();
-		$dao->connect();
 
-		if(nonempty_alphanumeric($fname));
+		if(!nonempty_alphanumeric($fname))
+			error_msg("Invalid first name.");
+			
+		if(!nonempty_alphanumeric($lname))
+			error_msg("Invalid last name.");
+		
+		if(strlen($password) <3)
+			error_msg("Invalid password.");
+		
+		die_errors();
+		
+		$user = array($username, $fname, $lname, $password, $apps);
+		
+		$dao->connect();
+		if(!$dao->add_intake_user($user)) {
+			error_msg("There was a database problem. Please try again later.");
+			die_errors();
+		}
+		
+		header("Location: $base/student-view?username=$username");
+		
+		break;
+	
+	case "student-view":
+		require_signin();
+		$dao->connect();
+		
+		$user = $dao->get_student_user_by_username($username);
+		$smarty->assign("user", $user);
+		$smarty->assign("app_table", app_table($dao));
+		$smarty->display("student-view.tpl");
+		
+		break;
+	
+	case "student-edit-process":
+		require_signin();
+		
+		if(!nonempty_alphanumeric($fname))
+			error_msg("Invalid first name.");
+			
+		if(!nonempty_alphanumeric($lname))
+			error_msg("Invalid last name.");
+		
+		if(strlen($password) <3)
+			error_msg("Invalid password.");
+		
+		die_errors();
+		
+		$user = array($username, $fname, $lname, $password, $apps);
+		
+		$dao->connect();
+		if(!$dao->update_user($user)) {
+			error_msg("There was a database problem. Please try again later.");
+			die_errors();
+		}
+		
+		header("Location: $base/student-view?username=$username");
+		break;
+	
+	case "student-delete":
+		require_signin();
+		$dao->connect();
+		
+		$dao->delete_user($username);
+		
+		echo "The user $username has been permanently deleted.";
 		
 		break;
 		

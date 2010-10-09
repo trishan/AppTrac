@@ -9,6 +9,7 @@ $smarty->template_dir = "$wwwroot/templates";
 $smarty->compile_dir  = "$wwwroot/cache/compile";
 $smarty->cache_dir    = "$wwwroot/cache";
 
+$smarty->assign("base", $base);
 $smarty->assign("request", $_REQUEST);
 
 ?>
