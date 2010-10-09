@@ -1,15 +1,20 @@
 <?php
 
+
 class dao {
+
+private $conf; 
+
 	function dao() {
+        $this->conf = parse_ini_file("config.ini.php");
 
 	}
 
 	function connect() {
-		$hostname = "localhost";
-		$username = "litlab";
-		$password = "Bn3mAStaxK3YeQpu";
-		$dbname = "litlab_stage";
+		$hostname = $this->conf["db_hostname"];
+		$username = $this->conf["db_username"];
+		$password = $this->conf["db_password"];
+		$dbname = $this->conf["db_dbname"];
 		try {
 			$this->db = new PDO("mysql:host=$hostname;dbname=$dbname", $username, $password);
 		} catch(PDOException $e) {

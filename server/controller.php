@@ -3,16 +3,15 @@
 /**
 * Controller
 */
-
+$conf = parse_ini_file("config.ini.php");
 // The base URL of the web app, relative to the hostname.
 // This is used in redirects and links.
-$base = "/~aalcorn/litlab";
+$base = $conf["base"];
 $path = trim(str_replace($base, "", $_SERVER["REDIRECT_URL"]), "/");
 
 // For convenience, we import the request variables into the global scope.
 // This means we have to be careful about using uninitialized variables.
 extract($_REQUEST);
-
 require("constants.php");
 require("util.php"	);
 require("dao.php"	);
