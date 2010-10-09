@@ -18,4 +18,5 @@
         wwwroot = "/www/apptrac";
 	
 
-
+	[Developer Settings]
+	debug_mode = 0;
