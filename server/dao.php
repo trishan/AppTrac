@@ -7,7 +7,6 @@ private $conf;
 
 	function dao() {
         $this->conf = parse_ini_file("config.ini.php");
-
 	}
 
 	function connect() {
@@ -275,13 +274,64 @@ private $conf;
 		return $user;
 	}
 	
+	function get_all_users() {
+		$stmt = $this->db->prepare("
+			select username, fname, lname, password, assigned_apps
+			from student_user
+		");
+		$stmt->execute();
+		$users = $stmt->fetchAll(PDO::FETCH_ASSOC);
+		
+		foreach($users as $k => $user)
+			$users[$k]["apps"] = explode(",", $user["assigned_apps"]);
+		
+		return $users;
+	}
+	
 	function list_all_apps() {
 		$stmt = $this->db->prepare("
 			select id, name, intake_checked_default
 			from app
+			order by id asc
 		");
 		$stmt->execute();
 		return $stmt->fetchAll(PDO::FETCH_ASSOC);
+	}
+	
+	function search_users($partial, $limit = 10) {
+		$stmt = $this->db->prepare("
+			select username, fname, lname, password, assigned_apps
+			from student_user
+			where username like concat('%', :partial, '%')
+			or fname like concat('%', :partial, '%')
+			or lname like concat('%', :partial, '%')
+			or concat(fname, ' ', lname) like concat('%', :partial, '%')
+			limit $limit
+		");
+		$stmt->bindValue(":partial", strtolower($partial));
+		$stmt->bindValue(":limit", $limit);
+		$stmt->execute();
+		
+		$results = $stmt->fetchAll(PDO::FETCH_ASSOC);
+		return $results;
+	}
+	
+function search_lusers($partial, $limit = 50) {
+		$stmt = $this->db->prepare("
+			select User_Name, First_Name, Last_Name, Password
+			from student
+			where User_Name like concat('%', :partial, '%')
+			or First_Name like concat('%', :partial, '%')
+			or Last_Name like concat('%', :partial, '%')
+			or concat(First_Name, ' ', Last_Name) like concat('%', :partial, '%')
+			limit $limit
+		");
+		$stmt->bindValue(":partial", strtolower($partial));
+		$stmt->bindValue(":limit", $limit);
+		$stmt->execute();
+		
+		$results = $stmt->fetchAll(PDO::FETCH_ASSOC);
+		return $results;
 	}
 }
 

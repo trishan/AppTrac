@@ -7,7 +7,7 @@
 <form action="intake-process" method="post">
 	<table>
 		<tr>
-			<td><label for="username">Userame:</label></td>
+			<td><label for="username">Username:</label></td>
 			<td><input type="text" name="username" id="username"/></td>
 		</tr><tr>
 			<td><label for="fname">First name:</label></td>

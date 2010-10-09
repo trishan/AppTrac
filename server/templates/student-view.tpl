@@ -7,7 +7,7 @@
 <div id="show">
 <table>
 		<tr>
-			<td>Userame:</td>
+			<td>Username:</td>
 			<td>{$user.username}</td>
 		</tr><tr>
 			<td>Name:</td>
@@ -33,7 +33,7 @@
 	<input type="hidden" name="username" value="{$user.username}"/>
 	<table>
 		<tr>
-			<td>Userame:</td>
+			<td>Username:</td>
 			<td>{$user.username}</td>
 		</tr><tr>
 			<td><label for="fname">First name:</label></td>
@@ -63,7 +63,7 @@
 	</table>
 </form>
 <h3>Other options</h3>
-<input type="button" style="background-color: red; color: white" onclick="if(confirm('Are you sure you want to delete the user {$user.username} ({$user.fname} {$user.lname})? If you click OK, this user\'s information will be permanently deleted.'))window.location='{$base}/student-delete?username={$user.username}';"
+<input type="button" style="background-color: darkred; color: white" onclick="if(confirm('Are you sure you want to delete the user {$user.username} ({$user.fname} {$user.lname})? If you click OK, this user\'s information will be permanently deleted.'))window.location='{$base}/student-delete?username={$user.username}';"
 	value="Delete this user"/>
 </div>
 

@@ -236,6 +236,7 @@ switch($path) {
 		
 		$user = $dao->get_student_user_by_username($username);
 		$smarty->assign("user", $user);
+		
 		$smarty->assign("app_table", app_table($dao));
 		$smarty->display("student-view.tpl");
 		
@@ -275,6 +276,26 @@ switch($path) {
 		echo "The user $username has been permanently deleted.";
 		
 		break;
+	
+	case "user-info":
+		require_signin();
+		$dao->connect();
+		
+		$users = $dao->get_all_users();
+		
+		$smarty->assign("users", $users);
+		$smarty->display("user-landing.tpl");
+		break;
+	
+	case "student-search.ajax":
+		require_signin();
+		$dao->connect();
+		$results = $dao->search_lusers($partial);
+		
+		$smarty->assign("results", $results);
+		$smarty->display("user-search-results.tpl");
+		
+		break;
 		
 	// No matching action
 	default:
@@ -283,4 +304,3 @@ switch($path) {
 }
 
 ?>
-
