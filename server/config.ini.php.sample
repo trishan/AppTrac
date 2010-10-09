@@ -1,0 +1,21 @@
+;Configuration settings for AppTrac Installation
+
+
+;<?php
+;exit ("Invalid File request!! What are you up to???");
+;?>
+	[Mod rewrite rules]
+	app_version = "1";
+	base     = "";
+
+	[Database Settings]
+	db_hostname = "localhost";
+	db_username = "username";
+	db_password = "password";
+	db_dbname = "database";
+	
+	[Smarty Settings]
+        wwwroot = "/www/apptrac";
+	
+
+
