@@ -17,8 +17,10 @@
 	{if $signed_in}
 	<div id="menu">
 	<ul>
+	<li><a href=".">Home</a></li>
 	<li><a href="activity">Recent Activity</a></li>
 	<li><a href="lab-reports">Lab Reports</a></li>
+	<li><a href="user-info">User Information</a><li>
 	<li><a href="intake">Intake form</a></li>
 	<li>
 	</ul>
