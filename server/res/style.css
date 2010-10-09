@@ -1,0 +1,36 @@
+
+body {padding:50px 100px; margin:0; font-family:Calibri; background-color:white);}
+
+/* Header Styling*/
+#header {height:150px; background-image:url(images/header_bg.png);}
+#logo {color:#FFD800; font-size:30px; height:100px; padding:50px 0 0 30px;}
+#slogan {float:right; font-size:20px; color:#FFD800; padding:60px 30px 0 0;}
+
+/* Menu bar */
+#menu {height:40px; background-image:url(images/menu_bg.png); margin-top:5px;}
+#menu ul {margin:0; padding:0;}
+#menu li {list-style:none; float:left; background:url(images/menu_border.png) right no-repeat;}
+#menu a {text-decoration:underline; float:left; height:20px; padding:10px 30px; color:#FFFFFF; font-size:15px; font-weight:bold; text-decoration:none; font-family:Arial, Helvetica, sans-serif;}
+#menu a:hover {text-decoration:none; color:#000000;font-weight:bold; background:url(images/menu_hover.png);}
+
+#session-signout {position:relative;top:0;left:450; display:block}
+
+
+
+#main {float:left; width:100%; margin:5px 0; background:url(images/main_bg.png) right repeat-y; color:#111111; font-size:13px;}
+#main a {text-decoration:nunderline; color:#333333;}
+#main a:hover {font-weight:bold; text-decoration:none; font-size:13px; color:#0094FF;}
+#main br {line-height:8px;}
+
+
+#text {line-height:14px; margin-right:225px; padding:10px 30px 30px 30px;}
+#text h1 {font-size:23px; font-weight:normal; margin:20px 0 10px 0;}
+#text h2 {font-size:20px; font-weight:normal; margin:20px 0 10px 0;}
+#text ol, #text ul {padding:0; margin:8px 0;}
+#text li {margin-left:40px;}
+/* Footer Styling */
+#footer {height:40px; color:#FFFFFF; font-size:15px; background-image:url(images/footer_bg.png); clear:both;}
+#footer a {text-decoration:none; color:#FFFFFF;}
+#footer a:hover {color:#0094FF;}
+#footer_left {float:left; padding:13px 0 0 30px;}
+#footer_right {float:right; padding:13px 30px 0 0;}
