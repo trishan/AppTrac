@@ -7,6 +7,9 @@
 <form action="intake-process" method="post">
 	<table>
 		<tr>
+			<td><label for="username">Userame:</label></td>
+			<td><input type="text" name="username" id="username"/></td>
+		</tr><tr>
 			<td><label for="fname">First name:</label></td>
 			<td><input type="text" name="fname" id="fname"/></td>
 		</tr><tr>
@@ -15,6 +18,16 @@
 		</tr><tr>
 			<td><label for="password">Password:</label></td>
 			<td><input type="text" name="password" id="password"/></td>
+		</tr><tr>
+			<td colspan="2">
+				<fieldset><legend>Assigned Applications<legend>
+{foreach from=$apps item=app}
+<input type="checkbox" name="apps[]" id="app_{$app.id}" value="{$app.id}"
+	{if $app.intake_checked_default > 0} checked="checked"{/if}/>
+<label for="app_{$app.id}">{$app.name}</label><br/>
+{/foreach}
+				</fieldset>
+			</td>
 		</tr><tr>
 			<td style="text-align: right" colspan="2">
 				<input type="reset" value="Clear"/>
