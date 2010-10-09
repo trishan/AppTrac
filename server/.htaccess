@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteBase /~aalcorn/litlab/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule (.*) controller.php
